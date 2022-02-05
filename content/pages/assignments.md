@@ -19,11 +19,48 @@ For the final class, we will read descriptions of the real pinnacles of human le
 
 Response Paper Examples Courtesy of Anonymous Student Authors:
 
-| SES # | SAMPLE RESPONSE PAPERS |
-| --- | --- |
-| 2 | [Geometry and navigation—a candidate innate representation (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk2) |
-| 9 | [Learning as exploration (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk9) |
-| 10 | [Executive function (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk10) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE RESPONSE PAPERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Geometry and navigation—a candidate innate representation (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+[Learning as exploration (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+[Executive function (PDF)]({{< baseurl >}}/resources/mit9_s915s12_sample_wk10)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Presentations
 -------------
